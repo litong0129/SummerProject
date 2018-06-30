@@ -1,0 +1,82 @@
+[
+	{
+		"user_id" : "SnXZkRN9Yf060pNTk1HMDg",
+		"review_id" : "---3OXpexMp0oAg77xWfYA",
+		"business_id" : "lKq4Qsz13FDcAVgp49uukQ",
+		"stars" : 5,
+		"date" : "2012-04-07 00:00:00",
+		"Pid" : "-BeTrYRAOeUPn7cwdE5h_g"
+	},
+	{
+		"user_id" : "SnXZkRN9Yf060pNTk1HMDg",
+		"review_id" : "---3OXpexMp0oAg77xWfYA",
+		"business_id" : "lKq4Qsz13FDcAVgp49uukQ",
+		"stars" : 5,
+		"date" : "2012-04-07 00:00:00",
+		"Pid" : "-ZF3v_DRObFkqTFof1zj8w"
+	},
+	{
+		"user_id" : "tJlsvyij1G8e8e1onQ4yBQ",
+		"review_id" : "--007YIsRSNb33JY0dyqpg",
+		"business_id" : "p3YqOYELqXtLyHz9T49p_w",
+		"stars" : 4,
+		"date" : "2011-08-29 00:00:00",
+		"Pid" : "-pgMxsWixdLrrpbRKfzEMA"
+	},
+	{
+		"user_id" : "S6TvDZGLWHXjjCbGufE1QQ",
+		"review_id" : "--1Wwh2WGDjtZV6THmF5nA",
+		"business_id" : "R6jpwPBe9edy0P64uyaLKA",
+		"stars" : 4,
+		"date" : "2012-11-12 00:00:00",
+		"Pid" : "-q8mjXLIGxwqeegSGIJ5DQ"
+	},
+	{
+		"user_id" : "JB4_tH5U_oN7Xl3MA4aeHw",
+		"review_id" : "--2AS5-RGeHWexSn5CmBOA",
+		"business_id" : "IMLrj2klosTFvPRLv56cng",
+		"stars" : 3,
+		"date" : "2013-05-13 00:00:00",
+		"Pid" : "-lz-xlF6tZnipxsexqZgmw"
+	},
+	{
+		"user_id" : "oLLYmkej2TMHaTbudug5eA",
+		"review_id" : "--4LgB2HgH5Cyf-I2NpWYg",
+		"business_id" : "isYj0rlYyUv3bUd4ZChxlQ",
+		"stars" : 4,
+		"date" : "2012-06-24 00:00:00",
+		"Pid" : "-319lqSZ-JnQD3Nz51bWLQ"
+	},
+	{
+		"user_id" : "4MHFQcFfHzVe4ISx3lvHlw",
+		"review_id" : "--5n3DpFxEOPxYQ1KhRiEQ",
+		"business_id" : "BslEhCyzaQPfpHtDogb4hQ",
+		"stars" : 4,
+		"date" : "2015-06-24 00:00:00",
+		"Pid" : "-FXNTxd-UTwwfp3F3CE4Fg"
+	},
+	{
+		"user_id" : "-aq0KKWyMbhugu183UGj7Q",
+		"review_id" : "--8s6dNoD5SJ1LFFbvQc1w",
+		"business_id" : "5LNZ67Yw9RD6nf4_UhXOjw",
+		"stars" : 2,
+		"date" : "2014-07-20 00:00:00",
+		"Pid" : "-o4aG7GEpIzfYtuinGHipQ"
+	},
+	{
+		"user_id" : "Tsm8VraTp5OGyVALtUiCeQ",
+		"review_id" : "--a8gQlh2ayRaPuiKm-_Qw",
+		"business_id" : "pSQFynH1VxkfSmehRXlZWw",
+		"stars" : 3,
+		"date" : "2013-05-30 00:00:00",
+		"Pid" : "-Bpp22oNDGOqsTEpn4OWMA"
+	},
+	{
+		"user_id" : "wXZS42D0L8hoCiSh2Krc_A",
+		"review_id" : "--bm0djP749MtNTC9xpk2Q",
+		"business_id" : "_3FxLxdg1unUQc3QqIgJuA",
+		"stars" : 3,
+		"date" : "2014-05-09 00:00:00",
+		"Pid" : "-K5S03XRhbJgDrxjCiI1XA"
+	}
+]
